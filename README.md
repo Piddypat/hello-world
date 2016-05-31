@@ -3,6 +3,6 @@ Good start to github.
 
 Hello there,
 
-Worked in the networking world for 10 years.
-Wanted to learn more about the codeing side of things.
-hope this will shed some light on the codeing life style.
+i just deleted all the old files and will write over the new.
+
+Needing the master file to still be intacted.
